@@ -13,5 +13,5 @@ Esta é uma solução para o desafio do [componente de código QR no Frontend Me
 
 ## Author
 
-- Website - [Ana Paula Benjamin](https://www.your-site.com)
+- Website - [Ana Paula Benjamin](https://anapaulabenjamin.github.io/frontendMentor-QRCode/)
 - Frontend Mentor - [@AnaPaulaBenjamin](https://www.frontendmentor.io/profile/AnaPaulaBenjamin)
