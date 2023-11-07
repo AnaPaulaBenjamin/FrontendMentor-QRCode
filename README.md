@@ -8,8 +8,8 @@ Esta é uma solução para o desafio do [componente de código QR no Frontend Me
 
 ### Links
 
-- Solução URL: [Add solution URL here](https://your-solution-url.com)
-- Site ao vivo URL: [Add live site URL here](https://your-live-site-url.com)
+- Solução URL: [Add solution URL here](https://www.frontendmentor.io/solutions/pgina-de-destino-responsiva-usando-flexbox-m61d2dxN-v)
+- Site ao vivo URL: [Add live site URL here](https://anapaulabenjamin.github.io/frontendMentor-QRCode/)
 
 ## Author
 
